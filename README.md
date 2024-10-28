@@ -1,4 +1,4 @@
-AdvancedProgramming-Assignements# Advanced Programming Course - Assignments (2023/2024)
+Advanced Programming Course - Assignments (2023/2024)
 
 This repository contains links to the assignments I did for the academic year 2023/2024.
 
