@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notXMLable />
+<Professor>
+  <lastName type="String">X</lastName>
+  <department type="String">Computer Science</department>
+  <age type="int">40</age>
+</Professor>
+<Student>
+  <firstName type="String">Jane</firstName>
+  <surname type="String">Doe</surname>
+  <age type="int">25</age>
+</Student>
+<Student>
+  <firstName type="String">John</firstName>
+  <surname type="String">Smith</surname>
+  <age type="int">30</age>
+</Student>
+<Professor>
+  <lastName type="String">Y</lastName>
+  <department type="String">Physics</department>
+  <age type="int">45</age>
+</Professor>
+<notXMLable />
